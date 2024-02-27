@@ -13,3 +13,7 @@
 spacetext = "this has a space at the end "
 print(spacetext.rstrip())
 print(spacetext.removeprefix('this has '))
+
+message2 = "One of Python's strengths is it's diverse communtiy."
+print(message2)
+
